@@ -4,6 +4,8 @@ layout: default
 
 ## About Me
 
+<img class="profile-picture" src="https://avatars1.githubusercontent.com/u/4314491?s=460&v=4>
+
 Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: Data Scientist @ [LKS-CHART](http://www.chartdatascience.com) & Sessional Lecturer @ [University of Toronto](http://www.web.cs.toronto.edu). Previously: MSc Student @ [University of Toronto](http://www.eb.cs.toronto.edu).
 
 
