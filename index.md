@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: Data Scientist @ [LKS-CHART](chartdatascience.com) & Sessional Lecturer @ [University of Toronto](web.cs.toronto.edu). Previously: MSc Student @ [University of Toronto](web.cs.toronto.edu).
+Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: Data Scientist @ [LKS-CHART](http://www.chartdatascience.com) & Sessional Lecturer @ [University of Toronto](http://www.web.cs.toronto.edu). Previously: MSc Student @ [University of Toronto](http://www.eb.cs.toronto.edu).
 
 
 ## Publications
@@ -22,6 +22,6 @@ Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: D
 
 ## Fun
 
-* [Favourite books read in 2018](http://www.cs.toronto.edu/~chloe/favebooks_2018.html)
+* [Favourite books read in 2018](fave_books_2018)
 
 
