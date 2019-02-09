@@ -6,40 +6,22 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: Data Scientist @ [LKS-CHART](chartdatascience.com) & Sessional Lecturer @ [University of Toronto](web.cs.toronto.edu). Previously: MSc Student @ [University of Toronto](web.cs.toronto.edu).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+* Majid Komeili, **Chloé Pou-Prom**, Daniyal Liaqat, Katie Fraser, Maria Yancheva, Frank Rudzicz. "_Talk2Me: Automated linguistic data collection for personal assessment"_, PLoS ONE, 2019. _Accepted_.
+* Akshay Rajaram, Trevor Morey, Naheed Dosani, **Chloé Pou-Prom**, Muhammad Mamdani. "_Palliative Care in the Twenty-First Century: Using Advanced Analytics to Uncloak Insights from Big Data_", Journal of Palliative Medicine, 2019. {[letter](https://www.liebertpub.com/doi/10.1089/jpm.2018.0609)}
+* **Chloé Pou-Prom**, Frank Rudzicz. "_Learning multiview embeddings for assessing dementia_", in Conference on Empirical Methods for Natural Language Processing, 2018. {[paper](http://aclweb.org/anthology/D18-1304)} {[slides](https://drive.google.com/file/d/1Vr5JoDLw36RYSWdD_6zsWgnzpYtvb4lI/view)}
+* Serena Jeblee, Akshay Budhkar, Saša Milić, Jeff Pinto, **Chloé Pou-Prom**, Krishnapriya Vishnubhotla, Graeme Hirst, Frank Rudzicz. "_TorontoCL at CLEF 2018 eHealth Task 1: Multi-lingual ICD-10 Coding using an Ensemble of Recurrent and Convolutional Neural Networks_", in CLEF 2018 eHealth Working Notes, 2018. {[paper](ftp://ftp.db.toronto.edu/public_html/cs/ftp/dist/gh/torontocl-clef-2018.pdf)}
+* Zeinab Noorian, **Chloé Pou-Prom**, Frank Rudzicz. "_On the importance of normative data in speech-based assessment_" in Machine Learning for Health workshop at Neural Information Processes, 2017. {[paper](https://arxiv.org/abs/1712.00069)}
 
-## Typography
+## Talks & Presentations
+* "_Unstructured Data: Using Text Data_" at the [Data Analytics for Sustaining Health (DASH) Summit](https://sites.google.com/view/dashsummit/), December 3, 2018.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Fun
 
-Here is a table
+* [Favourite books read in 2018](http://www.cs.toronto.edu/~chloe/favebooks_2018.html)
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
