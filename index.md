@@ -18,6 +18,7 @@ Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: D
 * Zeinab Noorian, **Chloé Pou-Prom**, Frank Rudzicz. "_On the importance of normative data in speech-based assessment_" in Machine Learning for Health workshop at Neural Information Processes, 2017. {[paper](https://arxiv.org/abs/1712.00069)}
 
 ## Talks & Presentations
+*"_Natural Language Processing and Dementia_" at the NeuroTechUofT Speaker Series, March 26, 2019 {[slides](https://drive.google.com/file/d/1rleyg5zf1GezC4oaijJOaeNyr5YFETW8/view?usp=sharing)}
 * "_Unstructured Data: Using Text Data_" at the [Data Analytics for Sustaining Health (DASH) Summit](https://sites.google.com/view/dashsummit/), December 3, 2018. {[slides](https://docs.google.com/presentation/d/1G3jQmPo7EF7a1OFKGbWsC8eMAaNE4VJmPxmmEuaQtOE/edit?usp=sharing)}
 
 ## Fun
