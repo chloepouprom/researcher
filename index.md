@@ -6,11 +6,12 @@ layout: default
 
 <img class="profile-picture" src="https://avatars1.githubusercontent.com/u/4314491?s=460&v=4">
 
-Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: Data Scientist @ [LKS-CHART](https://www.chartdatascience.ca) & Sessional Lecturer @ [University of Toronto](http://www.web.cs.toronto.edu). Previously: MSc Student @ [University of Toronto](http://www.eb.cs.toronto.edu).
+Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: Data Scientist @ [LKS-CHART](https://www.chartdatascience.ca) & Sessional Lecturer @ [University of Toronto](http://www.web.cs.toronto.edu). Previously: MSc Student @ [University of Toronto](http://www.web.cs.toronto.edu).
 
 
 ## Publications
 
+* Faiza Khan Khattak, **Chloé Pou-Prom**, Robert Wu, Frank Rudzicz. "_Predicting ICU transfers using text messages between nurses and doctors_", in Clinical NLP workshop at North American Chapter of the Association for Computational Linguistics, 2019. 
 * Majid Komeili, **Chloé Pou-Prom**, Daniyal Liaqat, Katie Fraser, Maria Yancheva, Frank Rudzicz. "_Talk2Me: Automated linguistic data collection for personal assessment"_, PLoS ONE, 2019. {[paper](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0212342)}
 * Akshay Rajaram, Trevor Morey, Naheed Dosani, **Chloé Pou-Prom**, Muhammad Mamdani. "_Palliative Care in the Twenty-First Century: Using Advanced Analytics to Uncloak Insights from Big Data_", Journal of Palliative Medicine, 2019. {[letter](https://www.liebertpub.com/doi/10.1089/jpm.2018.0609)}
 * **Chloé Pou-Prom**, Frank Rudzicz. "_Learning multiview embeddings for assessing dementia_", in Conference on Empirical Methods for Natural Language Processing, 2018. {[paper](http://aclweb.org/anthology/D18-1304)} {[slides](https://drive.google.com/file/d/1Vr5JoDLw36RYSWdD_6zsWgnzpYtvb4lI/view)}
