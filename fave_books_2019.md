@@ -8,7 +8,7 @@ layout: default
 
 * **On the Come Up by Angie Thomas** - Angie Thomas is the queen of modern YA. 
 
-* **A Ladder to the Sky by John Boyne**- I think a lot of us dream about becoming novelists. Well, John Boyne is here to crush on your dreams and scare you away from that in the most terridying way. I've never hated and loved a book as much as this one. You're going to want to claw your eyes out because the Protagonist in this is terrible, but also... this book is just SO well written.
+* **A Ladder to the Sky by John Boyne**- I think a lot of us dream about becoming novelists. Well, John Boyne is here to crush on your dreams and scare you away from that in the most terrifying way. I've never hated and loved a book as much as this one. You're going to want to claw your eyes out because the Protagonist in this is terrible, but also... this book is just SO well written.
 
 * **The Diviners by Libbra Bray** - Prohibition era fantasy that focuses on the "outsiders" of America. I used to think that books set in 20s would be boring, but honestly this is so vivid and the characters are full of personality and say "this is the cat's _meow_" unironically. 
 
