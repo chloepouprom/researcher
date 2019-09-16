@@ -20,7 +20,7 @@ Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: D
 * Majid Komeili, Chloé Pou-Prom, Daniyal Liaqat, Katie Fraser, Maria Yancheva, Frank Rudzicz. "_Talk2Me: Automated linguistic data collection for personal assessment"_, PLoS ONE, 2019. {[paper](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0212342)}
 
 ## Abstracts, Theses & Letters
-* Chloé Pou-Prom, Zhen Yang, Maitreyee Sidhaye, David Dai. "_Developing an Early Warning System for Sepsis_", Computing in Cardiology/PhysioNet Challenge, 2019. {[extended abstract](http://www.cinc.org/2019/Program/accepted/34_CinCFinalPDF.pdf)} {[poster](./poster/physionet_2019.pdf)}
+* Chloé Pou-Prom, Zhen Yang, Maitreyee Sidhaye, David Dai. "_Developing an Early Warning System for Sepsis_", Computing in Cardiology/PhysioNet Challenge, 2019. {[extended abstract](http://www.cinc.org/2019/Program/accepted/34_CinCFinalPDF.pdf)} {[poster](./posters/physionet_2019.pdf)} _* won "Best poster presentation" award_
 * Akshay Rajaram, Trevor Morey, Naheed Dosani, Chloé Pou-Prom, Muhammad Mamdani. "_Palliative Care in the Twenty-First Century: Using Advanced Analytics to Uncloak Insights from Big Data_", Journal of Palliative Medicine, 2019. {[letter](https://www.liebertpub.com/doi/10.1089/jpm.2018.0609)}
 
 ## Talks & Presentations
