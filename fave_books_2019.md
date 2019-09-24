@@ -14,6 +14,8 @@ layout: default
 
 * **The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid** - I was pretty much crying by chapter 2 so uhh... you're in for a wild ride.
 
-* **Jade City by Fonda Lee** - This book perfectly captures the essence of _Legend of Korra_ all while infusing it with _Gangs of New York_ and it's BEAUTIFUL. Also, the author doesn't care about your emotions and WILL make your favorite characters go through the absolute worst. 
+* **The Green Bone Saga by Fonda Lee** - This series consists of **Jade City** and **Jade War** (released this year!!!). These books perfectly captures the essence of _Legend of Korra_ all while infusing it with _Gangs of New York_ and it's BEAUTIFUL. Also, the author doesn't care about your emotions and WILL make your favorite characters go through the absolute worst. 
 
 * **The Calculating Stars by Mary Robinette Kowal** - Speculative fiction set around the Cold War. What if a huge meteor wiped out most of the US and now we have a few years to find a new planet before we DIE? 
+
+* **The Poppy War series by RF Kuang** - This series consists of **The Poppy War** and **The Dragon Republic**. Grimdark fantasy novel that is heavily inspired by the Sino-Japanese war. Apparently, the main character is inspired by Azula from _Avatar: The Last Airbender_ (wow! 2 books/series on this list that are fantasy novels that remind me of the world of _Avatar_ - clearly, I have a type :joy:).
