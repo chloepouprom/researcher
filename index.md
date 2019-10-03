@@ -17,6 +17,7 @@ Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: D
 * Zeinab Noorian, Chloé Pou-Prom, Frank Rudzicz. "_On the importance of normative data in speech-based assessment_" in Machine Learning for Health workshop at Neural Information Processing Systems, 2017. {[paper](https://arxiv.org/abs/1712.00069)}
 
 ## Journals
+* Faiza Khan Khattak, Serena Jeblee, Chloé Pou-Prom, Mohamed Abdalla, Christopher Meaney, Frank Rudzicz. "_A survey of word embeddings for clinical text_", Journal of Biomedical Informatics, 2019. 
 * Majid Komeili, Chloé Pou-Prom, Daniyal Liaqat, Katie Fraser, Maria Yancheva, Frank Rudzicz. "_Talk2Me: Automated linguistic data collection for personal assessment"_, PLoS ONE, 2019. {[paper](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0212342)}
 
 ## Abstracts, Theses & Letters
