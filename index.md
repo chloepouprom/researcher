@@ -30,6 +30,7 @@ Hi! I'm Chloé. My research interests are AI and NLP in healthcare. Currently: D
 
 ## Fun
 
+* [Favourite books read in 2019](fave_books_2019)
 * [Favourite books read in 2018](fave_books_2018)
 
 
