@@ -14,8 +14,10 @@ layout: default
 
 * **The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid** - I was pretty much crying by chapter 2 so uhh... you're in for a wild ride.
 
-* **The Green Bone Saga by Fonda Lee** - This series consists of **Jade City** and **Jade War** (released this year!!!). These books perfectly captures the essence of _Legend of Korra_ all while infusing it with _Gangs of New York_ and it's BEAUTIFUL. Also, the author doesn't care about your emotions and WILL make your favorite characters go through the absolute worst. 
+* **The Green Bone Saga by Fonda Lee** - This series consists of **Jade City** and **Jade War** (released this year!!!). These books perfectly capture the essence of _Legend of Korra_ all while infusing it with _Gangs of New York_ and it's BEAUTIFUL. Also, the author doesn't care about your emotions and WILL make your favorite characters go through the absolute worst. 
 
-* **The Calculating Stars by Mary Robinette Kowal** - Speculative fiction set around the Cold War. What if a huge meteor wiped out most of the US and now we have a few years to find a new planet before we DIE? 
+* **The Calculating Stars by Mary Robinette Kowal** - Speculative fiction set around the Cold War. What if a huge meteor wiped out most of the US and now we have a few years to find a new planet before we DIE? The Space Race is motivated by impending doom and it is AWESOME.
 
-* **The Poppy War series by RF Kuang** - This series consists of **The Poppy War** and **The Dragon Republic**. Grimdark fantasy novel that is heavily inspired by the Sino-Japanese war. Apparently, the main character is inspired by Azula from _Avatar: The Last Airbender_ (wow! 2 books/series on this list that are fantasy novels that remind me of the world of _Avatar_ - clearly, I have a type :joy:).
+* **The Poppy War series by RF Kuang** - This series consists of **The Poppy War** and **The Dragon Republic**. Grimdark fantasy novel that is heavily inspired by the Sino-Japanese war. Apparently, the main character is inspired by Azula from _Avatar: The Last Airbender_ (wow! 2 books/series on this list that are fantasy novels that remind me of the world of _Avatar_ - clearly, I have a type).
+
+* **Red White & Royal Blue by Casey McQuiston** - Buckle up friends, because this one is an adventure. Imagine an _alternate timeline_ where the President of the United States is **not** Trump and where the First Son of the United States falls in love with the Prince of England. 
